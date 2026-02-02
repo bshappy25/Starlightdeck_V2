@@ -1,0 +1,16 @@
+starlight-deck/
+│
+├── .streamlit/
+│   └── secrets.toml         # (never commit real secrets)
+│
+├── utils/
+│   ├── __init__.py
+│   ├── economy.py
+│   └── admin.py
+│
+├── careon_bank_v2.json
+├── codes_ledger.json
+├── user_profile.json
+├── streamlit_app.py
+├── requirements.txt
+└── README.md
